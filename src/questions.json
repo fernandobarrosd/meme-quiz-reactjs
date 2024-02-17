@@ -1,0 +1,95 @@
+[
+    {
+        "id": 1,
+        "answers": [
+            {
+                "id": 1,
+                "value": 2019 
+            },
+            {
+                "id": 2,
+                "value": 2018 
+            },
+            {
+                "id": 3,
+                "value": 2021 
+            },
+            {
+                "id": 4,
+                "value": 2022 
+            },
+            {
+                "id": 5,
+                "value": 2017 
+            },
+            {
+                "id": 6,
+                "value": 2020 
+            }
+        ],
+        "correntAnswer": 2021,
+        "image": "/src/assets/memes-images/mó-paz.jpeg"
+    },
+    {
+        "id": 2,
+        "answers": [
+            {
+                "id": 1,
+                "value": 2016 
+            },
+            {
+                "id": 2,
+                "value": 2020 
+            },
+            {
+                "id": 3,
+                "value": 2017 
+            },
+            {
+                "id": 4,
+                "value": 2021 
+            },
+            {
+                "id": 5,
+                "value": 2019 
+            },
+            {
+                "id": 6,
+                "value": 2015 
+            }
+        ],
+        "correntAnswer": 2021,
+        "image": "/src/assets/memes-images/pfizer.gif"
+    },
+    {
+        "id": 3,
+        "answers": [
+            {
+                "id": 1,
+                "value": 2019 
+            },
+            {
+                "id": 2,
+                "value": 2018 
+            },
+            {
+                "id": 3,
+                "value": 2020
+            },
+            {
+                "id": 4,
+                "value": 2014 
+            },
+            {
+                "id": 5,
+                "value": 2012 
+            },
+            {
+                "id": 6,
+                "value": 2013 
+            }
+        ],
+        "correntAnswer": 2020,
+        "image": "/src/assets/memes-images/um-pouco-mais.jpeg"
+    }
+]
