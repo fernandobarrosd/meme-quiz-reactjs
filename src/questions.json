@@ -16,7 +16,7 @@
             }
         ],
         "correntAnswer": 2021,
-        "image": "/src/assets/memes-images/mó-paz.jpeg"
+        "image": "/memes-images/mó-paz.jpeg"
     },
     {
         "id": 2,
@@ -35,7 +35,7 @@
             }
         ],
         "correntAnswer": 2021,
-        "image": "/src/assets/memes-images/pfizer.gif"
+        "image": "/memes-images/pfizer.gif"
     },
     {
         "id": 3,
@@ -54,7 +54,7 @@
             }
         ],
         "correntAnswer": 2020,
-        "image": "/src/assets/memes-images/um-pouco-mais.jpeg"
+        "image": "/memes-images/um-pouco-mais.jpeg"
     },
     {
         "id": 4,
@@ -69,23 +69,11 @@
             },
             {
                 "id": 3,
-                "value": 2014
-            },
-            {
-                "id": 4,
                 "value": 2016
-            },
-            {
-                "id": 5,
-                "value": 2017
-            },
-            {
-                "id": 6,
-                "value": 2018
             }
         ],
         "correntAnswer": 2016,
-        "image": "/src/assets/memes-images/nazare-confusa.gif"
+        "image": "/memes-images/nazare-confusa.gif"
     },
     {
         "id": 5,
@@ -101,22 +89,10 @@
             {
                 "id": 3,
                 "value": 2016
-            },
-            {
-                "id": 4,
-                "value": 2015
-            },
-            {
-                "id": 5,
-                "value": 2017
-            },
-            {
-                "id": 6,
-                "value": 2011
             }
         ],
         "correntAnswer": 2014,
-        "image": "/src/assets/memes-images/acertou-miseravel.gif"
+        "image": "/memes-images/acertou-miseravel.gif"
     },
     {
         "id": 6,
@@ -127,27 +103,15 @@
             },
             {
                 "id": 2,
-                "value": 2018 
+                "value": 2013 
             },
             {
                 "id": 3,
-                "value": 2020
-            },
-            {
-                "id": 4,
-                "value": 2014 
-            },
-            {
-                "id": 5,
                 "value": 2012 
-            },
-            {
-                "id": 6,
-                "value": 2013 
             }
         ],
         "correntAnswer": 2013,
-        "image": "/src/assets/memes-images/quero-cafe.gif"
+        "image": "/memes-images/quero-cafe.gif"
     },
     {
         "id": 7,
@@ -162,23 +126,11 @@
             },
             {
                 "id": 3,
-                "value": 2019
-            },
-            {
-                "id": 4,
-                "value": 2021
-            },
-            {
-                "id": 5,
-                "value": 2011
-            },
-            {
-                "id": 6,
                 "value": 2016
             }
         ],
         "correntAnswer": 2013,
-        "image": "/src/assets/memes-images/rei-do-camarote.gif"
+        "image": "/memes-images/rei-do-camarote.gif"
     },
     {
         "id": 8,
@@ -189,26 +141,71 @@
             },
             {
                 "id": 2,
-                "value": 2014
-            },
-            {
-                "id": 3,
-                "value": 2013
-            },
-            {
-                "id": 4,
-                "value": 2011
-            },
-            {
-                "id": 5,
                 "value": 2010
             },
             {
-                "id": 6,
+                "id": 3,
                 "value": 2016
             }
         ],
         "correntAnswer": 2012,
-        "image": "/src/assets/memes-images/aqui-tem-coragem.gif"
+        "image": "/memes-images/aqui-tem-coragem.gif"
+    },
+    {
+        "id": 9,
+        "answers": [
+            {
+                "id": 1,
+                "value": 2011
+            },
+            {
+                "id": 2,
+                "value": 2017
+            },
+            {
+                "id": 3,
+                "value": 2016
+            }
+        ],
+        "correntAnswer": 2017,
+        "image": "/memes-images/date-ruim.jpeg"
+    },
+    {
+        "id": 10,
+        "answers": [
+            {
+                "id": 1,
+                "value": 2014
+            },
+            {
+                "id": 2,
+                "value": 2023
+            },
+            {
+                "id": 3,
+                "value": 2022
+            }
+        ],
+        "correntAnswer": 2023,
+        "image": "/memes-images/barbie-vs-openheimer.jpeg"
+    },
+    {
+        "id": 11,
+        "answers": [
+            {
+                "id": 1,
+                "value": 2014
+            },
+            {
+                "id": 2,
+                "value": 2023
+            },
+            {
+                "id": 3,
+                "value": 2022
+            }
+        ],
+        "correntAnswer": 2023,
+        "image": "/memes-images/barbie-vs-openheimer.jpeg"
     }
 ]
