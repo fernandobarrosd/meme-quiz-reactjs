@@ -56,13 +56,18 @@ export function App() {
         setCurrentQuestionIndex(prevValue => prevValue + 1);
     }
 
+    function stopAudio(audio: HTMLAudioElement) {
+        audio.pause();
+        audio.currentTime = 0;
+    }
+
     function handleResetGame() {
         setIsWinned(false);
         setCurrentQuestionIndex(0);
         setLifes(3);
         setGameIsStarted(true);
-        looseAnswerAudio.pause();
-        winAnswerAudio.pause();
+        stopAudio(looseAnswerAudio);
+        stopAudio(winAnswerAudio);
     }
     return (
         <div className="flex 
