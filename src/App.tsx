@@ -61,6 +61,8 @@ export function App() {
         setCurrentQuestionIndex(0);
         setLifes(3);
         setGameIsStarted(true);
+        looseAnswerAudio.pause();
+        winAnswerAudio.pause();
     }
     return (
         <div className="flex 
@@ -97,7 +99,7 @@ export function App() {
                     ">
                         <span>{currentQuestion.id}</span>
                     </div>
-                    <img className="mb-14 w-56 h-56 bg-gray-200" src={currentQuestion.image}/>
+                    <img className="mb-14 w-56 h-56 bg-gray-600" src={currentQuestion.image}/>
                     
                     <div className="grid gap-x-8 gap-y-4 
                     grid-cols-2 md:grid-cols-3 ">
