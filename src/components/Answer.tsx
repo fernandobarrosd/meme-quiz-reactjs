@@ -5,10 +5,12 @@ type AnswerProps = {
 
 export function Answer({ value, onClick } : AnswerProps) {
     return (
-        <li
+        <button
         onClick={() => onClick(value)}
         className="bg-black
-      text-white p-6 text-sm rounded-sm
-        w-48 text-center cursor-pointer">{value}</li>
+        text-white p-6 text-sm rounded-sm
+        w-36 md:w-48 text-center">
+            {value}
+       </button>
     );
 }

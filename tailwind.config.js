@@ -5,7 +5,13 @@ export default {
     "./src/**/*.tsx"
   ],
   theme: {
-    extend: {},
+    extend: {
+      screens: {
+        mobile: {
+          max: "360px"
+        }
+      }
+    },
   },
   plugins: [],
 }
